@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-## Research Work
-
 ### A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition
 **First Author** (Under Peer Review)
 
