@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+
+
 ## Research Work
 
 ### A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition
