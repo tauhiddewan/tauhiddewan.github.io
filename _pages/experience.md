@@ -8,8 +8,6 @@ author_profile: true
 
 ## Professional Experience
 
----
-
 * **ML & DevOps Engineer** \
 [Anchorblock Technology Limited](https://anchorblock.ai/ "https://anchorblock.ai/"), Dhaka, Bangladesh\
 **Period:** _Feb 2023 – Present_
@@ -43,38 +41,26 @@ author_profile: true
 <br/>
 
 
-<!-- ## Voluntary Service
+## Voluntary Experience
+* **Deputy Team Captain** at [Team Crack Platoon](https://drive.google.com/file/d/1Q7aMJhnggUo9cTbuRYF1rwJ6mr36yVe3/view?usp=drive_link) (Rajshahi, Bangladesh) \
+    * **Period:** _Apr 2022 – May 2022_
+    <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
----
 
-* **Student Volunteer** at [EACL](https://2023.eacl.org/calls/volunteers/) (Dubrovnik, Croatia)
-    * **Period:** _May 2023 – May 2023_
-    * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions
+* **Electrical System Member** at [Team Crack Platoon](https://drive.google.com/file/d/12xpCSxsj1vkuhJAy0v_wWGIyl5gsq7sv/view?usp=drive_link) (Rajshahi, Bangladesh) \
+    * **Period:** _Dec 2018 – Apr 2022_
+    <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
-* **General Member** at AUST Innovation and Design Club ([AUSTIDC](https://aust-idc.com/ "https://aust-idc.com/"))
-    * **Period:** _May 2017 – December 2021_
-    * AUSTIDC ID 1702271
-    * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
+* **Mentor** at [Bangladesh Robot Olympiad](https://drive.google.com/file/d/1I5e7gM0YAWUFxfRhzGELYKLWK96oTxR1/view?usp=drive_link) (Dhaka, Bangladesh) \
+    * **Period:** _Nov 2018 – Dec 2019_
+    <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
-* **Communication Responsible** at [Mozilla](https://community.mozilla.org/en/groups/mozilla-bangladesh/ "Community Website")
-    * **Period:** _January 2018 – January 2018_
-    * Affiliated with Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/, "https://www.aust.edu/"))
-
-* **Content Developer** at [Durbin Labs Limited](https://durbinlabs.com/ "https://durbinlabs.com/")
-    * **Period:** _June 2018 – August 2018_
-    * Affiliated with Durbin Labs Limited -->
-
+* **Class Representative** at [Department of ECE, RUET](https://drive.google.com/file/d/1-cBbv4VmM-aT_lgexhp9zwPqZEXwI63K/view?usp=drive_link) (Dhaka, Bangladesh) \
+    * **Period:** _Nov 2018 – Dec 2019_
+    <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
 <!-- 
-## Honours & Awards
-
----
-* Half Scholarship for Academic Performance during B.Sc. in CSE at [AUST](https://aust.edu/) _(2020-2021)_
-* Robi-Datathon 2.0 **<span style="color:RoyalBlue">Finalist</span>** (Top 6% among 358 Teams); organized by [Robi Axiata Limited](https://www.robi.com.bd/en) _(2022)_ -->
-
-
-
-<!-- ## Contests & Participations
+ ## Contests & Participations
 
 ---
 
@@ -82,12 +68,6 @@ author_profile: true
 * Intra AUST Project Showcasing organized by [AUST CSE Society](https://www.aust.edu/cse "https://www.aust.edu/cse") _(Spring 2018)_
 * Innoventure Engineering Olympiad organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
 * Web Compatibility Sprint organized by [AUST IDC](https://aust-idc.com/ "https://aust-idc.com/") _(Spring 2017)_
-* 1st AML-ACC National Science Festival organized by [Neutrino ACC Science Club](https://www.nasc.com.de/) _(2014)_ -->
-
-<!-- {% for post in site.experience %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
----
+* 1st AML-ACC National Science Festival organized by [Neutrino ACC Science Club](https://www.nasc.com.de/) _(2014)_  -->
 
 [<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://tauhiddewan.github.io/experience/#)[Top](https://tauhiddewan.github.io/experience/#)
