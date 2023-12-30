@@ -15,4 +15,5 @@ I have previously worked under the supervision of Prof. Dr. [Md. Shamim Anower](
 
 [<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://tauhiddewan.github.io/#)[Top](https://tauhiddewan.github.io/#)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zvuzuYG5Lmg-HQr6bbRY41UVcTuU9YJq4WEjJ9nZ-z4&cl=ffffff&w=300" ></script>
+<!-- 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zvuzuYG5Lmg-HQr6bbRY41UVcTuU9YJq4WEjJ9nZ-z4&cl=ffffff&w=300" ></script> -->
