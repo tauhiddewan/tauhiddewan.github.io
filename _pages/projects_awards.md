@@ -29,7 +29,7 @@ Drogon is a quadcopter equipped with sensors for detecting toxic gases and a rob
 ### [PhoenixRover](https://github.com/tauhiddewan/PhoenixRover, "https://github.com/tauhiddewan/PhoenixRover")
 🏆[2nd, IEEE YESIST12 - Age of Innovation, Thailand(Pilot Event)](https://drive.google.com/file/d/17mq5F0nT7UIe8sbY9ctG3wMPqOSk2fv5/view?usp=drive_link, "https://drive.google.com/file/d/17mq5F0nT7UIe8sbY9ctG3wMPqOSk2fv5/view?usp=drive_link")\
 PhoenixRover is a robot designed for human rescue operations. It is inspired by Mars rovers and can navigate through obstacles, detect humans using OpenCV and HOG algorithms, and supply emergency items. Its features make it a valuable tool for disaster relief in hazardous environments.
-
+https://github.com/tauhiddewan/Duckydetector
 
 ### [COVXAI](https://github.com/tauhiddewan/COVXAI, "https://github.com/tauhiddewan/COVXAI")
 COVXAI uses deep learning and learner-wise relevance propagation to diagnose COVID-19 from CT scans. A pre-trained VGG16 model was trained on the Sarskov dataset using PyTorch, and the LRP layer provided insights into the model's decision-making process. COVXAI shows promise in medical diagnosis and improving model interpretability.
@@ -44,3 +44,6 @@ The News Assistant is a project that provides a news search and recommendation s
 
 ### [TweetSentinel](https://github.com/tauhiddewan/TweetSentinel, "https://github.com/tauhiddewan/TweetSentinel")
 TweetSentinel detects real vs. fake news on Twitter using advanced machine learning techniques and the Kaggle dataset. Deployed on AWS Lambda, it offers an efficient and scalable solution for combatting the spread of fake news.
+
+
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://tauhiddewan.github.io/projects_awards/#)[Top](https://tauhiddewan.github.io/projects_awards/#)
