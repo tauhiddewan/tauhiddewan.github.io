@@ -53,7 +53,6 @@ author_profile: true
 
 ## <img src="https://img.icons8.com/office/20/000000/diploma.png"/> Higher Secondary Certificate (H.S.C.) in Science
 
-* **Period:** _July 2014 – July 2016_
 * **Institution:** Rajuk Uttara Model College ([RUMC](http://www.rajukcollege.edu.bd/, "http://www.rajukcollege.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.0 _[on a scale of 5.0]_.
 
@@ -61,7 +60,6 @@ author_profile: true
 
 ## <img src="https://img.icons8.com/office/20/000000/diploma.png"/> Secondary School Certificate (S.S.C.) in Science
 
-* **Period:** _January 2012 – January 2014_
 * **Institution:** Rajuk Uttara Model College ([RUMC](http://www.rajukcollege.edu.bd/, "http://www.rajukcollege.edu.bd/")), Dhaka, Bangladesh.
 * **GPA:** 5.0 _[on a scale of 5.0]_.
 
