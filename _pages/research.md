@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition
+<!-- ### A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition -->
 **First Author** (Under Peer Review)
 
 * The featured transformer-in-transformer architecture with knowledge distillation enables simultaneous exploration of local and global features in natural images, facilitating faster learning from the teacher model while minimizing resource requirements.
