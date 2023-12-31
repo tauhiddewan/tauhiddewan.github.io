@@ -21,9 +21,6 @@ Hello, I'm **Dewan Tauhid Rahman**, a passionate researcher and technologist wit
 
 <span style="color:Red"> I am actively looking for new opportunities in Fall'24</span> to further contribute to and grow in the fields I am passionate about. If you have exciting projects or positions, I would love to connect and explore potential collaborations. 
 
-
-[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://tauhiddewan.github.io/#)[Top](https://tauhiddewan.github.io/#)
-
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7PVYQFYbTD-xHPGO7FMJuAIJUcJG0X1EG_Bpg1SlkhE&cl=ffffff&w=a"></script>
 
-
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://tauhiddewan.github.io/#)[Top](https://tauhiddewan.github.io/#)
