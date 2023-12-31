@@ -42,20 +42,20 @@ author_profile: true
 
 
 ## Voluntary Experience
-* **Deputy Team Captain** at [Team Crack Platoon](https://drive.google.com/file/d/1Q7aMJhnggUo9cTbuRYF1rwJ6mr36yVe3/view?usp=drive_link) (Rajshahi, Bangladesh) \
+* **Deputy Team Captain** at [Team Crack Platoon](https://drive.google.com/file/d/1Q7aMJhnggUo9cTbuRYF1rwJ6mr36yVe3/view?usp=drive_link) (Rajshahi, Bangladesh)
     * **Period:** _Apr 2022 – May 2022_
     <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
 
-* **Electrical System Member** at [Team Crack Platoon](https://drive.google.com/file/d/12xpCSxsj1vkuhJAy0v_wWGIyl5gsq7sv/view?usp=drive_link) (Rajshahi, Bangladesh) \
+* **Electrical System Member** at [Team Crack Platoon](https://drive.google.com/file/d/12xpCSxsj1vkuhJAy0v_wWGIyl5gsq7sv/view?usp=drive_link) (Rajshahi, Bangladesh)
     * **Period:** _Dec 2018 – Apr 2022_
     <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
-* **Mentor** at [Bangladesh Robot Olympiad](https://drive.google.com/file/d/1I5e7gM0YAWUFxfRhzGELYKLWK96oTxR1/view?usp=drive_link) (Dhaka, Bangladesh) \
+* **Mentor** at [Bangladesh Robot Olympiad](https://drive.google.com/file/d/1I5e7gM0YAWUFxfRhzGELYKLWK96oTxR1/view?usp=drive_link) (Dhaka, Bangladesh)
     * **Period:** _Nov 2018 – Dec 2019_
     <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
-* **Class Representative** at [Department of ECE, RUET](https://drive.google.com/file/d/1-cBbv4VmM-aT_lgexhp9zwPqZEXwI63K/view?usp=drive_link) (Dhaka, Bangladesh) \
+* **Class Representative** at [Department of ECE, RUET](https://drive.google.com/file/d/1-cBbv4VmM-aT_lgexhp9zwPqZEXwI63K/view?usp=drive_link) (Dhaka, Bangladesh)
     * **Period:** _Nov 2018 – Dec 2019_
     <!-- * Helped people find the rooms, their poster, etc. in [GatherTown](https://www.gather.town/) during the virtual poster sessions -->
 
