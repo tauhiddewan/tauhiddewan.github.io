@@ -44,3 +44,5 @@ author_profile: true
 - Security: IAM, Cognito, WAF, Shield.
 - Monitoring: CloudWatch.
 - CI/CD: CodeBuild, CodeDeploy.
+
+[<img src="https://img.icons8.com/emoji/24/000000/up-arrow-emoji.png"/>](https://tauhiddewan.github.io/skills/#)[Top](https://tauhiddewan.github.io/skills/#)
